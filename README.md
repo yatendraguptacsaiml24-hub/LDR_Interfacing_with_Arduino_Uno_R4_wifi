@@ -1,6 +1,6 @@
 # LDR Interfacing with Arduino Uno R4 WiFi
 
-> A complete beginner-friendly Embedded Systems project demonstrating how to interface a **Light Dependent Resistor (LDR)** with **Arduino Uno R4 WiFi** using **PlatformIO in CLion**, and display real-time light intensity data on the Serial Monitor.
+# A complete beginner-friendly Embedded Systems project demonstrating how to interface a **Light Dependent Resistor (LDR)** with **Arduino Uno R4 WiFi** using **PlatformIO in CLion**, and display real-time light intensity data on the Serial Monitor.
 
 -----
 
@@ -117,22 +117,30 @@ void loop() {
 -----
 
 ##📊 9. Sample Output (Serial Monitor)
+
 LDR Raw Value: 215 | Light Intensity: 21%
+
 LDR Raw Value: 678 | Light Intensity: 66%
+
 LDR Raw Value: 945 | Light Intensity: 92%
 
 -----
 
 ##🚀 10. Applications
 
-Automatic street light systems
-Smart home lighting
-Day and night detection
-Energy-efficient lighting control
-IoT-based monitoring systems
+- Automatic street light systems
+
+- Smart home lighting
+  
+- Day and night detection
+
+- Energy-efficient lighting control
+  
+- IoT-based monitoring systems
 
 -----
 
 # Author -
 Name : Yatendra Kumar Gupta
+
 Gmail : guptajikrish12@gmail.com
