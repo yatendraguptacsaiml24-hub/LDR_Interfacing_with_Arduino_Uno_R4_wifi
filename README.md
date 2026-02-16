@@ -14,9 +14,8 @@
 7. Source Code Explanation  
 8. Complete Source Code  
 9. Sample Output  
-10. Applications  
-11. Future Improvements  
-12. Author  
+10. Applications 
+11. Author  
 
 -----
 
@@ -114,7 +113,7 @@ void loop() {
 
     delay(500);
 }
-
+```
 -----
 
 ##📊 9. Sample Output (Serial Monitor)
@@ -123,6 +122,17 @@ LDR Raw Value: 678 | Light Intensity: 66%
 LDR Raw Value: 945 | Light Intensity: 92%
 
 -----
+
+##🚀 10. Applications
+
+Automatic street light systems
+Smart home lighting
+Day and night detection
+Energy-efficient lighting control
+IoT-based monitoring systems
+
+-----
+
 # Author -
 Name : Yatendra Kumar Gupta
 Gmail : guptajikrish12@gmail.com
